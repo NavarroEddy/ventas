@@ -35,7 +35,7 @@
             <a href="pages/widgets.html" class="nav-link">
               <i class="nav-icon fa fa-dollar-sign"></i>
               <p>
-                Realizar Venta
+                Realizar VENTA
               </p>
             </a>
           </li>
