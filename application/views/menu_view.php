@@ -43,7 +43,7 @@
             <a href="pages/charts/chartjs.html" class="nav-link">
               <i class="nav-icon fas fa-chart-pie"></i>
               <p>Reportes</p>
-            </a>
+            </a>ñ
           </li>
           <li class="nav-item">
             <a href="<?php echo base_url(); ?>index.php/Usuarios_controller" class="nav-link">
