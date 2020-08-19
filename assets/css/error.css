@@ -1,0 +1,10 @@
+.error {
+    color: #f65545;
+    /*  text-align: center!important;
+    align-content: center!important;*/
+    /*margin-left: 50px; */
+}
+.valid {
+    color: #91d400;
+    /*margin-left: 50px;*/
+}
